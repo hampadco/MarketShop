@@ -14,6 +14,13 @@ public class SliderController:Controller
         return View();
     }
 
+  [HttpPost]
+    public IActionResult index(List<IFormFile> file)
+    {
+        // TODO: Your code here
+        return View();
+    }
+
     
     
     

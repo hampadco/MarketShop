@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apple\\Desktop\\shop\\shop.csproj": {}
+    "c:\\Users\\Apple\\Desktop\\shop\\shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apple\\Desktop\\shop\\shop.csproj": {
+    "c:\\Users\\Apple\\Desktop\\shop\\shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\shop\\shop.csproj",
+        "projectUniqueName": "c:\\Users\\Apple\\Desktop\\shop\\shop.csproj",
         "projectName": "shop",
-        "projectPath": "C:\\Users\\Apple\\Desktop\\shop\\shop.csproj",
+        "projectPath": "c:\\Users\\Apple\\Desktop\\shop\\shop.csproj",
         "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apple\\Desktop\\shop\\obj\\",
+        "outputPath": "c:\\Users\\Apple\\Desktop\\shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -11,13 +11,16 @@
                   <div class="card mb-4">
                     <h5 class="card-header heading-color">اضافه کردن اسلایدر</h5>
                     <div class="card-body">
-                      <form action="/upload" class="dropzone needsclick" id="dropzone-basic">
+                      <form action="/admin/slider/index" enctype="multipart/form-data" method="post" class="dropzone needsclick" id="dropzone-basic">
                         <div class="dz-message needsclick">
                           اسلایدرهای  را اینجا رها کنید و یا کلیک کنید
                         </div>
                         <div class="fallback">
                           <input name="file" type="file">
                         </div>
+
+                                            <button class="btn btn-info" type="submit">آپلود اسلایدرها </button>
+
                       </form>
                     </div>
                   </div>
@@ -27,7 +30,6 @@
                 <div class="col-12">
                   <div class="card">
                     
-                    <button class="btn btn-info">آپلود اسلایدرها </button>
                      
                   </div>
                 </div>
